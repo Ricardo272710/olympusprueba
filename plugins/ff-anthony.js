@@ -6,7 +6,7 @@ import { facebook } from "@xct007/frieren-scraper"
 import axios from 'axios'
 let handler = async (m, { conn, args, command, usedPrefix }) => {
 if (!args[0]) throw `
-hola bebes
+hola bebesbhgg
 ` 
 }
 handler.command = /^(anthp|anthony)$/i
