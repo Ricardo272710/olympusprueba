@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593993370003", '𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A', true], //Elitebot
+["593979133620", '𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A', true], //Elitebot
 ["593993370003"], 
 ["593993370003"], 
 ["573225761079"], 
@@ -28,7 +28,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["593993370003"]
+global.prems = ["593979133620"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
