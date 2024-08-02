@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593993370003", '𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓', true], //Elitebot
+["593993370003", '𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A', true], //Elitebot
 ["593993370003"], 
 ["593993370003"], 
 ["573225761079"], 
@@ -103,7 +103,7 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["593958918542", 'Jeffo 💻', 1], 
+["593979133620", 'RICARDO 💻', 1], 
 ["593993370003", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["593993370003", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["593993370003", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
@@ -114,15 +114,15 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
-global.author = "@Jeffomx15";
+global.packname = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A";
+global.author = "@proyecto-r.a";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.vs = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A";
 global.vsJB = "2.0";
 
-global.gt = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.gt = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A";
 global.yt = "";
 global.yt2 = "";
 global.ig = "";
@@ -143,7 +143,7 @@ global.nnnttt3 = '' //Grupo 8 COL
 global.nnnttt4 = '' //Grupo 9 COL
 global.nnnttt5 = '' //A.T.M.M
 global.paypal = ''
-global.asistencia = 'Wa.me/593993370003' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/593979133620' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -177,8 +177,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓 ";
-global.igfg = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.wm = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A ";
+global.igfg = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 R.A";
 global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
